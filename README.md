@@ -74,6 +74,18 @@ PWA 安装需要使用上方 HTTPS 在线网址；`打开花漾字.html` 是免�
 点击“添加到主平面”；
 点击添加；
 然后结束！！！
+<img width="1206" height="719" alt="74e9e21f1d6a80b850d7708780da5770" src="https://github.com/user-attachments/assets/d971d8d0-4ca4-4ffd-b5ad-453d319cfac4" />
+<img width="603" height="1311" alt="5a09ef304b61e9ad6d41fd1fe0e0a377" src="https://github.com/user-attachments/assets/ffb2901d-0fa0-479a-a191-418b929148c9" />
+<img width="1206" height="2622" alt="68bb98f899eabceea3634e88d6ffae04" src="https://github.com/user-attachments/assets/17a8a1bf-0f7b-4947-b848-feb2dd31ebc4" />
+<img width="1206" height="2622" alt="0e04b73ae51a32a5f93775ebdeea9c01" src="https://github.com/user-attachments/assets/9594ba0a-1658-4ad0-87ea-1cf6174635f0" />
+<img width="1206" height="2622" alt="113866b4247725f400f3653690e7732d" src="https://github.com/user-attachments/assets/fb9e606d-d5c4-4974-91c8-642e781622e3" />
+<img width="1206" height="2622" alt="1ec6feb84d3f00f3da4b50f105c4fc72" src="https://github.com/user-attachments/assets/0ab9195a-2f8a-4717-b04e-b9e691f7fe5b" />
+
+
+小弹窗关闭：
+
+<img width="1206" height="2622" alt="a109f7ae101bc7e99a476fb503455de9" src="https://github.com/user-attachments/assets/b22cc8fa-e178-4405-9f3d-54aee0bc5814" />
+<img width="1206" height="2622" alt="23b3f51cb7d19bf199a9ef3f5a47bbae" src="https://github.com/user-attachments/assets/92f6aab0-efe6-472b-be8e-30039b67abd5" />
 
 
 ## 分享给别人
